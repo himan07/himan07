@@ -131,18 +131,7 @@ Hi 👋, I'm Himanshu Yadav
 
 # 📈 GitHub Contributions
 
-<p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=himan07&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-stats.vercel.app/api?username=himan07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himan07&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himan07&" alt="himan07" /></p>
 
 
 # 🌐 Connect With Me
