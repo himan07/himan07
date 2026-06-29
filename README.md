@@ -113,7 +113,9 @@ Hi 👋, I'm Himanshu Yadav
 
 # 📊 GitHub Statistics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himan07&show_icons=true&locale=en&layout=compact" alt="himan07" /></p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/himan07?theme=dark&font=Nunito&ext=contest" />
+</p>
 
 <p align="center">
 
