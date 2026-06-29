@@ -127,13 +127,3 @@
 
 </a>
 </p>
-
----
-
-# 💡 Developer Quote
-
-<p align="center">
-
-> **Great software isn't just written — it's engineered.**
-
-</p>
