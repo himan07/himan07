@@ -121,15 +121,7 @@
 
 # 📅 Contribution Calendar
 
-<p align="center">
-
-<img
-    src="https://github-contributions-api.jogruber.de/v4/himan07?y=last"
-    width="100%"
-    alt="GitHub Contribution Calendar"
-/>
-
-</p>
+[![Himanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=himan07&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # 🌐 Connect With Me
 
