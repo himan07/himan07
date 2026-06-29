@@ -111,12 +111,20 @@ Hi 👋, I'm Himanshu Yadav
 
 ---
 
-# 📊 GitHub Statistics
+
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/himan07" alt="GitHub Contribution Chart">
+  <img
+    src="https://ghchart.rshah.org/00C853/himan07"
+    width="900"
+    alt="Contribution Calendar"
+  />
 </p>
 
+
+
+
+# 📊 GitHub Statistics
 <p align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=himan07&show_icons=true&theme=tokyonight"/>
