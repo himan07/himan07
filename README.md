@@ -113,6 +113,8 @@ Hi 👋, I'm Himanshu Yadav
 
 # 📊 GitHub Statistics
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himan07&show_icons=true&locale=en" alt="himan07" /></p>
+
 <p align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=himan07&show_icons=true&theme=tokyonight"/>
@@ -127,13 +129,9 @@ Hi 👋, I'm Himanshu Yadav
 
 </p>
 
+
+
 ---
-
-# 📈 GitHub Contributions
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himan07&" alt="himan07" /></p>
-
-
 # 🌐 Connect With Me
 
 <p align="center">
