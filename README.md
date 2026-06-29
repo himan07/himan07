@@ -88,18 +88,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himan07&" alt="himan07" /></p>
 
----
-# What I Love Building
-
-| Backend | Architecture |
-|----------|--------------|
-| REST APIs | System Design |
-| Authentication | Microservices |
-| Cloud Applications | AWS |
-| Database Design | Performance Optimization |
-| Real-Time Applications | Docker & Redis |
-
-
 # 🌐 Connect With Me
 
 <p align="center">
