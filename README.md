@@ -121,10 +121,11 @@
 
 # 📅 Contribution Calendar
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himan07&bg_color=1a1b27&color=00C2FF&line=00C2FF&point=ffffff&area=true&area_color=00C2FF&hide_border=true&radius=6" width="95%" />
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himan07/himan07/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himan07/himan07/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/himan07/himan07/output/github-contribution-grid-snake-dark.svg">
+</picture>
 # 🌐 Connect With Me
 
 <p align="center">
