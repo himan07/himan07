@@ -100,7 +100,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himan07&" alt="himan07" /></p>
 
 ---
-# ❤️ What I Love Building
+# What I Love Building
 
 | Backend | Architecture |
 |----------|--------------|
@@ -134,16 +134,6 @@
 
 <p align="center">
 
-> **"Great software isn't just written — it's engineered."**
-
-</p>
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, consider giving a ⭐ to my repositories.
+> **Great software isn't just written — it's engineered.**
 
 </p>
