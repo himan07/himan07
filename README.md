@@ -121,7 +121,7 @@
 
 # 📅 Contribution Calendar
 
-[![Himanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=himan07&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Contribution Calendar](https://ghchart.rshah.org/00C2FF/himan07)](https://github.com/himan07)
 
 # 🌐 Connect With Me
 
