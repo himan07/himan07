@@ -75,39 +75,39 @@ Hi 👋, I'm Himanshu Yadav
 
 # 🏆 What I Love Building
 
-✔ Scalable REST APIs
+  Scalable REST APIs
 
-✔ Authentication & Authorization
+  Authentication & Authorization
 
-✔ Backend Architecture
+  Backend Architecture
 
-✔ Microservices
+  Microservices
 
-✔ Cloud Applications
+  Cloud Applications
 
-✔ Real-Time Applications
+  Real-Time Applications
 
-✔ Database Design
+  Database Design
 
-✔ Performance Optimization
+  Performance Optimization
 
 ---
 
 # 📌 Featured Skills
 
-- Node.js
-- Express.js
-- React.js
-- MongoDB
-- MySQL
-- TypeScript
-- AWS
-- REST APIs
-- JWT Authentication
-- Microservices
-- System Design
-- Docker
-- Redis
+  Node.js
+  Express.js
+  React.js
+  MongoDB
+  MySQL
+  TypeScript
+  AWS
+  REST APIs
+  JWT Authentication
+  Microservices
+  System Design
+  Docker
+  Redis
 
 ---
 
@@ -129,15 +129,21 @@ Hi 👋, I'm Himanshu Yadav
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Contributions
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=himan07&theme=tokyo-night"/>
-
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=himan07&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+<p align="center">
+  <img width="95%" src="https://github-readme-stats.vercel.app/api?username=himan07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himan07&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+
 
 # 🌐 Connect With Me
 
@@ -151,7 +157,7 @@ Hi 👋, I'm Himanshu Yadav
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://instagram.com/__himanshu___y">
+<a href="https://instagram.com/__himan_y">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
@@ -161,7 +167,7 @@ Hi 👋, I'm Himanshu Yadav
 
 # 💡 Quote
 
-> **"Great software isn't just written — it's engineered."**
+> **Great software isn't just written — it's engineered.**
 
 ---
 
