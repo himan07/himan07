@@ -121,7 +121,11 @@
 
 # 📅 Contribution Calendar
 
-[![Contribution Calendar](https://ghchart.rshah.org/00C2FF/himan07)](https://github.com/himan07)
+# 📅 Contribution Calendar
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himan07&bg_color=0d1117&color=00C2FF&line=00C2FF&point=00C2FF&area=false&hide_border=true&custom_title=Himanshu%27s%20Contribution%20Graph" width="95%" />
+</p>
 
 # 🌐 Connect With Me
 
