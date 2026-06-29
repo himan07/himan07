@@ -119,54 +119,17 @@
 
 </p>
 
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=himan07&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-
-</p>
-
----
-
 # 📅 Contribution Calendar
 
 <p align="center">
 
 <img
-src="https://ghchart.rshah.org/00C853/himan07"
-width="100%"
-alt="Contribution Calendar"
+    src="https://github-contributions-api.jogruber.de/v4/himan07?y=last"
+    width="100%"
+    alt="GitHub Contribution Calendar"
 />
 
 </p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=himan07&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Tech |
-|----------|-------------|------|
-| **Project 1** | Backend API | Node.js |
-| **Project 2** | Full Stack App | MERN |
-| **Project 3** | Microservice | Node.js + Docker |
-| **Project 4** | Authentication System | JWT + Redis |
-
-> Replace these with your best repositories.
-
----
 
 # 🌐 Connect With Me
 
@@ -183,13 +146,6 @@ alt="Contribution Calendar"
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 </a>
-
-<a href="https://instagram.com/__himan_y">
-
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-
-</a>
-
 </p>
 
 ---
