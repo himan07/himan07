@@ -9,17 +9,7 @@
 </p>
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=himan07&label=Profile%20Views&color=00C2FF&style=for-the-badge"/>
-
-<a href="https://github.com/himan07?tab=followers">
-<img src="https://img.shields.io/github/followers/himan07?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/himan07">
-<img src="https://img.shields.io/github/stars/himan07?affiliations=OWNER&style=for-the-badge"/>
-</a>
-
 </p>
 
 ---
