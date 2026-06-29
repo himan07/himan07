@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Yadav</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer • Backend Engineer • Front End Developer
+🚀 Full Stack Developer • Backend Engineer • Front End Engineer
 </h3>
 
 <p align="center">
