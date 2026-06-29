@@ -114,7 +114,7 @@ Hi 👋, I'm Himanshu Yadav
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/himan07?theme=dark&font=Nunito&ext=contest" />
+  <img src="https://ghchart.rshah.org/himan07" alt="GitHub Contribution Chart">
 </p>
 
 <p align="center">
