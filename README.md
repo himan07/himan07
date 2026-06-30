@@ -98,9 +98,6 @@
 
 ## 📊 Contribution Stats
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himan07&show_icons=true&locale=en&layout=compact" alt="himan07" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himan07&show_icons=true&locale=en" alt="himan07" /></p> -->
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himan07&" alt="himan07" /></p>
 
 
